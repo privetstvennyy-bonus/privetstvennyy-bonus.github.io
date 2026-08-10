@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: privetstvennyy-bonus.github.io
+Sitemap: https://privetstvennyy-bonus.github.io/sitemap.xml
